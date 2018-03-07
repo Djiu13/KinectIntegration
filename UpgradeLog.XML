@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EventLogger">
+</Property><Property Name="Fichier solution" Value="C:\Users\Micky\Desktop\EventLogger\EventLogger.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Users\Micky\Desktop\EventLogger\EventLogger.suo">
+</Property><Property Name="Date" Value="mardi 18 octobre 2011">
+</Property><Property Name="Time" Value="18:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EventLogger.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EventLogger.suo" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger.suo">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\EventLogger.csproj" Description="Fichier projet correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\EventLogger.csproj">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\EventLogger.csproj.user" Description="Fichier utilisateur de projet correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\EventLogger.csproj.user">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\EventLoggerApp.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\EventLoggerApp.cs">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\EventLoggerService.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\EventLoggerService.cs">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\EventLoggerService.Designer.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\EventLoggerService.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\Program.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\Program.cs">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\ProjectInstaller.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\ProjectInstaller.cs">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\ProjectInstaller.Designer.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\ProjectInstaller.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\Properties\AssemblyInfo.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\Uninstall.cmd" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\Uninstall.cmd">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\Install.cmd" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\Install.cmd">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\ProjectInstaller.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\Micky\Desktop\EventLogger\Backup\EventLogger\ProjectInstaller.resx">
+</Event><Event ErrorLevel="1" Project="EventLogger" Source="EventLogger\EventLogger.csproj" Description="Votre projet cible le .NET Framework 2.0 ou 3.0. Si votre projet utilise des assemblys qui requièrent une version plus récente du .NET Framework, votre projet ne sera pas généré. Vous pouvez modifier la version du .NET Framework en cliquant sur Propriétés dans le menu Projet et en sélectionnant une nouvelle version dans la zone déroulante '.NET Framework'. (Dans Visual Basic, cliquez sur le bouton Paramètres avancés du compilateur sous l'onglet Compiler.)">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\EventLogger.csproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="EventLogger" Source="EventLogger\EventLogger.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EventLogger.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="EventLogger.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EventLogger" Source="EventLogger\EventLogger.csproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>
